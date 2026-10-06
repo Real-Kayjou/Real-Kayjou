@@ -1,4 +1,4 @@
-sup yes idk how to code i just do what i like thank you https://readme-typing-svg.demolab.com/demo/?font=Bodoni+Moda&weight=800&size=28&color=950000&background=
+sup yes idk how to code i just do what i like thank you [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bodoni+Moda&weight=800&size=28&pause=1000&color=950000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 <!--
 **Real-Kayjou/Real-Kayjou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
