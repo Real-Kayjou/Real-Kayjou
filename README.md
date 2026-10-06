@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1B2E,50:1B3B5A,100:557392&height=250&section=header&text=KAYJOU&fontSize=82&fontColor=F2F6FB&animation=twinkling&fontAlignY=36&desc=descend.%20build.%20surface%20with%20something%20real&descSize=18&descAlignY=58&descColor=C4D2E1" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1B2E,50:1B3B5A,100:557392&height=250&section=header&text=KAYJOU&fontSize=82&fontColor=F2F6FB&animation=twinkling&fontAlignY=36&desc=Here.%20Is.%20What%20I%20Do%&descSize=18&descAlignY=58&descColor=C4D2E1" width="100%" alt="header" />
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1500&color=34506D&center=true&vCenter=true&width=700&lines=examining...;Go+Outside+Bro">
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1300&pause=300&color=A1B2C4&background=0A1B2E&multiline=true&repeat=true&width=760&height=340&lines=%24+sudo+boot+kayjou.exe;%5B+OK+%5D+mounting+symbiote.core;%5B+OK+%5D+loading+local+brain+%28ollama%29;%5B+OK+%5D+syncing+minecraft+bots;%5BWARN%5D+coffee+level+critical;%24+whoami;kayjou+%C2%B7+independent+builder+%C2%B7+tunisia;%24+neofetch+--short;focus+%E2%96%B8+personal+AI+%C2%B7+automation+%C2%B7+bots;stack+%E2%96%B8+JavaScript+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+Ollama+%C2%B7+Gemini;school+%E2%96%B8+ISSAT+Kasserine;status+%E2%96%B8+all+systems+online.+welcome+visitor." alt="boot terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1300&pause=300&color=A1B2C4&background=0A1B2E&multiline=true&repeat=true&width=760&height=340&lines=%24+sudo+boot+kayjou.exe;%5B+OK+%5D+mounting+symbiote.core;%5B+OK+%5D+loading+local+brain+%28ollama%29;%5B+OK+%5D+syncing+minecraft+bots;%5BWARN%5D+coffee+level+critical;%24+whoami;kayjou+%C2%B7+independent+builder+%C2%B7+tunisia;%24+neofetch+--short;focus+%E2%96%B8+personal+AI+%C2%B7+automation+%C2%B7+bots;stack+%E2%96%B8+JavaScript+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+Ollama+%C2%B7+Gemini;University+%E2%96%B8+ISI+Kef;status+%E2%96%B8+all+systems+online.+welcome+visitor." alt="boot terminal" />
 
 </div>
 
