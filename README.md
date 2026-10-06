@@ -1,5 +1,4 @@
-## Hi there 👋
-
+sup yes idk how to code i just do what i like thank you https://readme-typing-svg.demolab.com/demo/?font=Bodoni+Moda&weight=800&size=28&color=950000&background=
 <!--
 **Real-Kayjou/Real-Kayjou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
