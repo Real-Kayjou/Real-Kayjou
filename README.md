@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1B2E,50:1B3B5A,100:557392&height=250&section=header&text=KAYJOU&fontSize=82&fontColor=F2F6FB&animation=twinkling&fontAlignY=36&desc=descend.%20build.%20surface%20with%20something%20real&descSize=18&descAlignY=58&descColor=C4D2E1" width="100%" alt="header" />
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=34506D&center=true&vCenter=true&width=700&lines=booting+kayjou.exe...;building+AI+that+actually+feels+alive;teaching+bots+to+mine+diamonds+in+Minecraft;fine-tuning+brains+one+JSONL+line+at+a+time;ship+first.+polish+later.+never+break+prod.">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A1B2C4&center=true&vCenter=true&width=700&lines=booting+kayjou.exe...;building+AI+that+actually+feels+alive;teaching+bots+to+mine+diamonds+in+Minecraft;fine-tuning+brains+one+JSONL+line+at+a+time;ship+first.+polish+later.+never+break+prod." alt="typing intro" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1500&color=34506D&center=true&vCenter=true&width=700&lines=examining...;Go+Outside+Bro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1500&color=A1B2C4&center=true&vCenter=true&width=700&lines=examining...;Go+Outside+Bro" alt="typing intro" />
 </picture>
 
 <br/>
@@ -19,29 +19,16 @@
 
 ## ◌ 10 &nbsp;—&nbsp; SURFACE &nbsp;/&nbsp; `whoami`
 
-```
-              .-~~~~-.
-           .-~        ~-.         kayjou@abyss
-          /   .  *  .    \        ─────────────────────────────────
-         |  ~~~~~~~~~~~~  |       OS      : Tunisia 🇹🇳
-         |  ~~~~~~~~~~~~  |       Class   : Independent builder
-          \  ~  ~  ~  ~  /        School  : ISSAT Kasserine
-           '-.        .-'         Focus   : Personal AI · Automation · Bots
-              '-.__.-'            Stack   : JavaScript · Python · Node.js
-                                  Brain   : Ollama · Gemini API
-                                  Fuel    : Anime · Minecraft · Lifting
-                                  Mode    : self-directed, no 9-to-5 leash
-                                  Theme   : Deep Navy / Midnight
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1300&pause=300&color=A1B2C4&background=0A1B2E&multiline=true&repeat=true&width=760&height=340&lines=%24+sudo+boot+kayjou.exe;%5B+OK+%5D+mounting+symbiote.core;%5B+OK+%5D+loading+local+brain+%28ollama%29;%5B+OK+%5D+syncing+minecraft+bots;%5BWARN%5D+coffee+level+critical;%24+whoami;kayjou+%C2%B7+independent+builder+%C2%B7+tunisia;%24+neofetch+--short;focus+%E2%96%B8+personal+AI+%C2%B7+automation+%C2%B7+bots;stack+%E2%96%B8+JavaScript+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+Ollama+%C2%B7+Gemini;school+%E2%96%B8+ISSAT+Kasserine;status+%E2%96%B8+all+systems+online.+welcome+visitor." alt="boot terminal" />
+
+</div>
 
 > I don't wait for permission or a job title. I pick a problem, build the thing, break it, fix it, ship it.
 > Honest feedback over flattery. Working code over perfect code.
 
 <br/>
-
-## ◌ 08 &nbsp;—&nbsp; SHALLOWS &nbsp;/&nbsp; `depth chart`
-
-*Every project sits at a depth. The deeper it goes, the more pressure it's under.*
 
 | Depth | Module | Status | What it does |
 | :---: | :--- | :---: | :--- |
@@ -57,17 +44,13 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=400&color=C4D2E1&background=112A46&multiline=true&repeat=true&width=780&height=190&lines=%3E+equip+LANGUAGES+%E2%96%B8+JavaScript+%E2%96%B8+Python;%3E+equip+AI%2FML+%E2%96%B8+Ollama+%E2%96%B8+Gemini+API+%E2%96%B8+JSONL+fine-tuning+pipelines;%3E+equip+BOTS+%E2%96%B8+Mineflayer+%E2%96%B8+Node.js+scripting;%3E+equip+FRONTEND+%E2%96%B8+HTML+%2F+CSS+%2F+JS+%E2%96%B8+glitch+%2B+chrome+%2B+midnight+gradients;%3E+equip+PHILOSOPHY+%E2%96%B8+if+it+fits+in+one+file+then+we+goood;%3E+loadout+complete.+ready+to+ship." alt="arsenal loadout" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/JavaScript-0A1B2E?style=for-the-badge&logo=javascript&logoColor=C4D2E1"/> <img src="https://img.shields.io/badge/Python-112A46?style=for-the-badge&logo=python&logoColor=C4D2E1"/> <img src="https://img.shields.io/badge/Node.js-1B3B5A?style=for-the-badge&logo=nodedotjs&logoColor=E1E8F0"/> <img src="https://img.shields.io/badge/Ollama-34506D?style=for-the-badge&logo=ollama&logoColor=E1E8F0"/> <img src="https://img.shields.io/badge/Gemini-557392?style=for-the-badge&logo=googlegemini&logoColor=F2F6FB"/> <img src="https://img.shields.io/badge/Mineflayer-7A8CA6?style=for-the-badge&logo=minecraft&logoColor=0A1B2E"/> <img src="https://img.shields.io/badge/HTML%2FCSS-A1B2C4?style=for-the-badge&logo=html5&logoColor=0A1B2E"/>
 
 </div>
-
-```
-LANGUAGES    ▸ JavaScript  ▸ Python
-AI / ML      ▸ Ollama  ▸ Gemini API  ▸ JSONL fine-tuning pipelines
-BOTS         ▸ Mineflayer  ▸ Node.js scripting
-FRONTEND     ▸ HTML / CSS / JS  ▸ glitch + chrome + midnight gradients
-PHILOSOPHY   ▸ single file when possible. less folders, more shipping.
-```
 
 <br/>
 
@@ -90,7 +73,9 @@ PHILOSOPHY   ▸ single file when possible. less folders, more shipping.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Real-Kayjou&bg_color=0A1B2E&color=A1B2C4&line=7A8CA6&point=F2F6FB&area=true&area_color=34506D&hide_border=true&height=300&custom_title=Tide%20Chart" width="100%" alt="activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Real-Kayjou&theme=tokyonight&utcOffset=1" alt="commits by hour" />
+
+<sub>commits by hour · when the work actually happens</sub>
 
 </div>
 
@@ -118,15 +103,6 @@ PHILOSOPHY   ▸ single file when possible. less folders, more shipping.
 + face / eye expression detection experiments
 - sleeping on a normal schedule (deprecated)
 ```
-
-<br/>
-
-## ◌ 02 &nbsp;—&nbsp; ABYSS &nbsp;/&nbsp; `off the clock`
-
-- 🎌 **Anime** — the real fuel. Symbiote energy comes from somewhere.
-- 🎮 **Gaming** — Minecraft is both hobby and testing lab.
-- 🏋️ **Fitness** — code hard, lift harder.
-- 🌊 **Aesthetic** — midnight silk, deep blue, chrome edges, quiet glow.
 
 <br/>
 
