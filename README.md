@@ -30,16 +30,6 @@
 
 <br/>
 
-| Depth | Module | Status | What it does |
-| :---: | :--- | :---: | :--- |
-| `01` | 🌐 **Portfolio** | `LIVE` | Cyber Y2K × Symbiote aesthetic. Chrome, glitch, black goo. |
-| `02` | 📱 **Oppo A31 Mod** | `RENDERED` | Full Spider-Man-themed customization on a budget phone. Yes, it looks insane. |
-| `03` | ⛏️ **Triple_T** | `ONLINE` | Minecraft bot on Mineflayer with Gemini as the brain. Mines, chats, survives. |
-| `04` | 🤖 **BRAVE** | `ONLINE` | Local AI companion on Ollama. Full architecture, own fine-tune dataset, zero cloud leash. |
-| `05` | 🧠 **Eltron** | `TRAINING` | An AI companion with its own behavior-training dataset. Personality is data. |
-
-<br/>
-
 ## ◌ 06 &nbsp;—&nbsp; THERMOCLINE &nbsp;/&nbsp; `arsenal`
 
 <div align="center">
