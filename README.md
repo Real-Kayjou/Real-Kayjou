@@ -63,9 +63,9 @@
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Real-Kayjou&theme=tokyonight&utcOffset=1" alt="commits by hour" />
+<img src="./profile-3d-contrib/profile-customize.svg" width="100%" alt="3D contribution graph" />
 
-<sub>commits by hour · when the work actually happens</sub>
+<sub>contributions, extruded · rebuilt every night</sub>
 
 </div>
 
